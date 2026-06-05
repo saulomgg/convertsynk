@@ -1,0 +1,6 @@
+# Dependências do VideoSynk
+# O VideoSynk utiliza principalmente bibliotecas padrão do Python.
+# O Tkinter geralmente já vem instalado com o Python.
+
+# Bibliotecas externas necessárias para desenvolvimento/empacotamento:
+pyinstaller>=6.0.0
