@@ -1,6 +1,6 @@
 # 🎬 ConvertSynk - Conversor de Vídeo Profissional
 
-![ConvertSynk Banner](assets/logo_large.png)
+![ConvertSynk Banner](assets/screenshot.png)
 
 O **ConvertSynk** é uma ferramenta de alta performance para conversão e compressão de vídeo, desenvolvida como parte integrante do ecossistema **HubSynk**. Projetado para ser simples, mas extremamente poderoso, ele utiliza o motor do **FFmpeg** para entregar resultados profissionais com uma interface intuitiva.
 
