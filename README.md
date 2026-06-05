@@ -73,4 +73,4 @@ O ConvertSynk é um projeto de código aberto. Sinta-se à vontade para abrir **
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-*Desenvolvido com ❤️ por saulomgg para a comunidade HubSynk.*
+*Desenvolvido por saulomgg.
