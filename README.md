@@ -41,32 +41,20 @@ O projeto segue uma arquitetura modular para facilitar a manutenção e escalabi
 ### Instalação
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/saulomgg/VideoSynk.git
-   cd VideoSynk
-   ```
+   
+   git clone https://github.com/saulomgg/convertsynk.git
+   cd convertsynk
+  
 
 2. Instale as dependências (opcional, para desenvolvimento):
-   ```bash
+  
    pip install -r requirements.txt
-   ```
+  
 
 3. Execute:
-   ```bash
+   
    python main.py
-   ```
-
----
-
-## 📦 Empacotamento (Build)
-
-Para gerar o executável (.exe) para Windows, utilize o arquivo `.spec` fornecido com o PyInstaller:
-
-```bash
-pyinstaller VideoSynk.spec
-```
-
-O executável será gerado na pasta `dist/ConvertSynk.exe`.
+  
 
 ---
 
